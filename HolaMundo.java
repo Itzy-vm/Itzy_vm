@@ -3,8 +3,8 @@ public class HolaMundo {
 
         String nombre = "Estudiantes";
 
-        int a = 5;
-        int b = 3;
+        int a = 10;
+        int b = 7;
         int suma = a + b;
 
         System.out.println("Hila," + nombre + "!");
