@@ -11,6 +11,6 @@ public class HolaMundo {
         System.out.println("Hola," + nombre + "!");
         System.out.println("La suma de "+ a +" + " + b +"es:" +suma);
         System.out.println("La multiplicación de "+ a +" * " + b +"es:" +mult);
-        System.out.println("Futura Ingeniera: Itzy Jareth Valle Mendoza_2025-1347U");
+        System.out.println("Itzy Jareth Valle Mendoza_2025-1347U");
     }
 }
